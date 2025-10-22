@@ -42,10 +42,13 @@
 ### 🌐 Connect with Me
 <div align="center">
   <a href="https://www.linkedin.com/in/tengku-farkhan-a-s-b9a889361" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&style=for-the-badge" height="30"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="30"/>
   </a>
   <a href="https://www.instagram.com/fhann8?igsh=cW45b3JpZW1mejdk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&style=for-the-badge" height="30"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="30"/>
+  </a>
+  <a href="mailto:tengkufarkhan3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" height="30" alt="gmail logo"/>
   </a>
 </div>
 
